@@ -1,0 +1,2 @@
+# cmd
+we are thinkers
